@@ -1,0 +1,4 @@
+ipython
+line-profiler
+numpy
+matplotlib
